@@ -1,0 +1,6 @@
+flask
+pandas
+sklearn
+gunicorn
+flask_cors
+nltk
